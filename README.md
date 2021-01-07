@@ -1,0 +1,2 @@
+# technocolabs_prerequisite_DataVizualization
+Solved excercises
